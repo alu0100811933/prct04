@@ -3,3 +3,5 @@
 Diferencias entre usar irb y ruby para mostrar "Hello world": con el intérprete ruby simplemente nos sale la frase a mostrar mientras que con el intérprete interactivo irb nos salen las 
 "acciones" o "comandos" por así decirlo que se van interpretando, las líneas de código.
 
+Deferencias entre ejecutar Hola Mundo con irb y con pry: la diferencia fundamental es que con pry podemos llamar a métodos, definir nuevos, cambiar variables...
+
